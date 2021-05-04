@@ -5,4 +5,4 @@
 **Mac OS**  
 
 [<img src="https://get.anydesk.com/_static/dl-btn-wb-large.png" alt="Download AnyDesk for Linux"/>](https://download.anydesk.com/linux/anydesk-6.1.1-amd64.tar.gz)  
-**Linux**  
+**Linux**
