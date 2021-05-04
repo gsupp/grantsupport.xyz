@@ -1,5 +1,3 @@
-# GrantSupport.xyz
-
 [<img src="https://get.anydesk.com/_static/dl-btn-wr-large.png" alt="Download AnyDesk for Windows"/>](https://download.anydesk.com/AnyDesk.exe)
 **Windows**
 
