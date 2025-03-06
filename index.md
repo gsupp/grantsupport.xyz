@@ -6,5 +6,5 @@
 **Mac OS**  
   
 
-[<img src="https://get.anydesk.com/_static/dl-btn-wb-large.png" width="250" height="55" alt="Download AnyDesk for Linux"/>](https://download.anydesk.com/linux/anydesk-6.3.0-amd64.tar.gz)  
+[<img src="https://get.anydesk.com/_static/dl-btn-wb-large.png" width="250" height="55" alt="Download AnyDesk for Linux"/>](https://download.anydesk.com/linux/anydesk-latest-amd64.tar.gz)  
 **Linux**
